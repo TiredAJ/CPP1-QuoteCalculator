@@ -1,0 +1,19 @@
+2
+6, #######
+#######, Jane Derry, No.3, Asburn Road, Cardiff, Cardiff, CF## ###
+1
+2, Wood
+11, 6, 66
+7, 4, 28
+
+9, #######
+#######, Daniel Audsworth, Pen Glas, Asburn Road, Cardiff, Cardiff, CF## ###
+2
+
+1, Wood
+15, 9, 135
+
+3, Carpet
+5, 20, 100
+8, 10, 80
+15, 15, 225

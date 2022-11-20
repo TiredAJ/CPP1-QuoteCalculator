@@ -1,0 +1,46 @@
+DB00001
+Jane Derry
+No.3
+Asburn Road
+Cardiff
+Cardiff
+CF## ###
+2
+11
+6
+yes
+7
+4
+no
+no
+DB00002
+Daniel Audsworth
+Pen Glas
+Asburn Road
+Cardiff
+Cardiff
+CF## ###
+1
+15
+15
+yes
+5
+20
+yes
+8
+10
+no
+yes
+2
+15
+9
+no
+no
+DB00003
+Axelle Thomas
+07773483247
+Flat 4; Floor 4
+Kensington Way
+AberTae
+Blue District
+BD44 0KW

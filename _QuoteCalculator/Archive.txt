@@ -1,0 +1,24 @@
+4
+5, 0000001
+DB00001, Jane Derry, 07789964765, No.3, Asburn Road, Cardiff, Cardiff, CF## ###
+1
+2, Wood
+11.000000, 6.000000, 66.000000
+7.000000, 4.000000, 28.000000
+8, 0000002
+DB00002, Daniel Audsworth, 07748226413, Pen Glas, Asburn Road, Cardiff, Cardiff, CF## ###
+2
+3, Carpet
+15.000000, 15.000000, 225.000000
+5.000000, 20.000000, 100.000000
+8.000000, 10.000000, 80.000000
+1, Wood
+15.000000, 9.000000, 135.000000
+4, 0000003
+DB00003, Axelle Thomas, 07773483247, Flat 4; Floor 4, Kensington Way, AberTae, Blue District, BD44 0KW
+1
+1, Wood
+5.000000, 10.000000, 50.000000
+2, 0000004
+DB00004, Kasi Jules, 07788392298, 3; Corston Street, Corston Street, AberTae, Blue District, BD03 0CS
+0

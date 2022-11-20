@@ -1,0 +1,12 @@
+﻿  QuoteCalculator.cpp
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(221,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(225,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(370,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(444,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(448,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(527,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(653,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(662,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(804,2): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\QuoteCalculator.cpp(1041,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  QuoteCalculator.vcxproj -> E:\Uni Work\Year 1\_C++\Term 2\Coursework\Coursework 1\_QuoteCalculator\x64\Debug\QuoteCalculator.exe
